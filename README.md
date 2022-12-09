@@ -153,7 +153,7 @@ https://docs.deribit.com/v2/#private-sell
 
 <a name="edit"/>
 
-#### 8. Edit
+#### 9. Edit
 
 `edit(order_id, amount, price)`
 
@@ -169,7 +169,7 @@ https://docs.deribit.com/v2/#private-edit
 
 <a name="cancel"/>
 
-#### 8. Cancel
+#### 10. Cancel
 
 `cancel(order_id)`
 
@@ -183,7 +183,7 @@ https://docs.deribit.com/v2/#private-cancel
 
 <a name="cancel_all"/>
 
-#### 8. Cancel All
+#### 11. Cancel All
 
 `cancel_all()`
 
@@ -195,7 +195,7 @@ https://docs.deribit.com/v2/#private-cancel_all
 
 <a name="account_summary"/>
 
-#### 8. Account Summary
+#### 12. Account Summary
 
 `account_summary(currency)`
 
@@ -209,7 +209,7 @@ https://docs.deribit.com/v2/#private-get_account_summary
 
 <a name="get_position"/>
 
-#### 8. Get Position
+#### 13. Get Position
 
 `get_position(currency)`
 
